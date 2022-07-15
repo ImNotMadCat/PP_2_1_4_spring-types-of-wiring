@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class KoscheiTheDeathless {
+    //На свете есть океан , на океане остров , на острове дерево , на дереве заяц , в зайце утка , в утке яйцо , в яйце иголка , смерть Кощея на игле
 
     private Ocean1 ocean;
 
